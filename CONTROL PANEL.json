@@ -1,6 +1,62 @@
-{
-  "key": "PGHACKS-3DAY-001",
-  "expiry": "2026-07-10",
-  "username": "User1",
-  "role": "Premium"
-}
+[
+  {
+    "key": "PG-3DAY-L7F5UB",
+    "used": true,
+    "hwid": "",
+    "expiry": "2026-07-10"
+  },
+  {
+    "key": "PG-3DAY-QLC3OL",
+    "used": false,
+    "hwid": "",
+    "expiry": "2026-07-10"
+  },
+  {
+    "key": "PG-3DAY-N7KJKX",
+    "used": false,
+    "hwid": "",
+    "expiry": "2026-07-10"
+  },
+  {
+    "key": "PG-3DAY-HV2QNI",
+    "used": false,
+    "hwid": "",
+    "expiry": "2026-07-10"
+  },
+  {
+    "key": "PG-3DAY-RPGJKK",
+    "used": false,
+    "hwid": "",
+    "expiry": "2026-07-10"
+  },
+  {
+    "key": "PG-3DAY-K6Y65K",
+    "used": false,
+    "hwid": "",
+    "expiry": "2026-07-10"
+  },
+  {
+    "key": "PG-3DAY-9VB4AX",
+    "used": false,
+    "hwid": "",
+    "expiry": "2026-07-10"
+  },
+  {
+    "key": "PG-3DAY-9FD0QY",
+    "used": false,
+    "hwid": "",
+    "expiry": "2026-07-10"
+  },
+  {
+    "key": "PG-3DAY-HQBOHZ",
+    "used": false,
+    "hwid": "",
+    "expiry": "2026-07-10"
+  },
+  {
+    "key": "PG-3DAY-3XSX7H",
+    "used": false,
+    "hwid": "",
+    "expiry": "2026-07-10"
+  }
+]
