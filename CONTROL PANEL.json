@@ -7,7 +7,7 @@
   },
   {
     "key": "PG-3DAY-TEST",
-    "used": false,
+    "used": true,
     "hwid": "",
     "expiry": "2026-07-10"
   },
